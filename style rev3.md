@@ -6,42 +6,59 @@ since if one does not end one do not need read this seperate
 section
 
 # drug alcohol medicine 
-
-## casual 
-### tell the purpose
-DAM endeavors to provide a safe and productive work environment for all employees.
+## deleted
+~~DAM endeavors to provide a safe and productive work environment for all employees.
 The specific purpose of this policy is to outline the procedure for maintaining a work environment free from the effects of alcohol and drug abuse or the abuse of other substances that may adversely affect the mind or body.
-### requirements
 All employees are expected to report for work and remain at work mentally and physically fit to perform their jobs.
+~~
+## too add
 
-
-## define them, and claim the consequence.
-## no drug
-### displine 
-1. employees should not be involved in the unlawful use, possession, sale or transfer of drugs, alcohol, narcotics, or controlled substances in any manner. 
-2. The unlawful possession, distribution, manufacture or use of a controlled substance is absolutely prohibited while conducting Company business on or off Company premises. Controlled substances are those defined as illegal under federal, state, or local laws and include, but are not limited to:• Narcotics• Cannabis• Stimulants• Depressants• Hallucinogens
-3. DAM reserves the right to institute drug testing programs at its sole discretion and in accordance with the currently prevailing federal, state and local laws and regulations.
-
-## no prescribed medicine
-### consequence
-Use of over-the-counter or prescription medication may affect job performance. 
-### what to do 
-Employees are encouraged to advise the Senior Director of Human Resources about the need for such use.
-### disipline
-
-**basically says, if you use you need documents, otherwise you maybe subject to discpline**
-1. If medication begins to affect work performance you may be asked to supply medical documentation for the necessity of such medication. 
-2. The inability to provide appropriate, legitimate documentation may result in disciplinary action up to and including termination of employment. 
+Any employee violating the polic will be subject to strong discipline, up to and including immediate termination of employment.
 
 3. The inappropriate use or distribution of over-the-counter or prescription medication is prohibited and infractions of this prohibition may result in disciplinary action up to and including termination of employment.
 
-### exception
-prescrbied medicine with medical dcoment doctor apprval 
 
-## no alchol
-Working under the influence of alcohol, or possessing or distributing alcohol in the workplace is also prohibited. Any employee violating this policy will be subject to strong discipline, up to and including immediate termination of employment.
-### exception
-1. There may be exceptions to the policy for organized Company sponsors marketing events or planned Company recreational activities during which drinking alcohol in moderation is acceptable, but never required.
+## intro 
+### tell the purpose
+Drugs and alcohols abuse harms people's mind and body. 
+Therefore, in DAM, drugs and alcohols are prohibited.
+
+## Alcohol
+1. Employees must not work under alcohol's influence.
+2. Employees must not possess or distribute alcohol in the workplace.
+### Exception
+Employees are allowed, but not required, to drink alcohol in sponsors' 
+marketing events or company's recreational activities.
+
+## Drug
+Employees must not unlawfully use, possess, sell or transfer
+controlled substance on or off any work-associated premises.
+ 
+Controlled substances are defined as illegal under federal, state, 
+or local laws. They include, but are not limited to:* Narcotics* Cannabis* Stimulants* Depressants* Hallucinogens
+
+There is no exception for drug policies.
+
+Furthermore, DAM reserves the right to institute drug testing programs 
+at its sole discretion and in accordance with the currently 
+prevailing federal, state and local laws and regulations.
+
+## Prescribed Medicine and Over-the-Counter
+
+1. Employees are allowed use Prescribed medicine and 
+over-the-counter, if their work performance are not affected.
+2. Employees must provide legitimate medical documentation 
+to prove the necessity of using Prescribed medicine and 
+over-the-counter, if their work performance are affected.
+
+
+Employees should advise the Senior Director 
+of Human Resources about the need for the use of prescribed 
+medicine or over-the counter.
+
+
+## Consequence of Violation
+
 
 ## resources
 ### why 
